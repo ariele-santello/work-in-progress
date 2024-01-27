@@ -32,4 +32,3 @@ function navigateToPage2() {
         window.location.href = 'home.html';
     }, 500);
 }
-
